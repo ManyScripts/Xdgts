@@ -4,13 +4,14 @@
 
 
                     DISCLAIMER!
-"This software is intended for educational and didactic purposes only
-such as testing the security of your own systems.
-It is not intended to be used for any illegal activities,
-such as unauthorized access to systems and/or others.
-The user assumes all responsibility for any actions taken using this script as raw code or precompiled software.
-We encourage users to use this software responsibly and to respect the privacy and security of others.
+"This software is intended for educational and didactic purposes only 
+such as testing the security of your own systems. 
+It is not intended to be used for any illegal activities, 
+such as unauthorized access to systems and/or others. 
+The user assumes all responsibility for any actions taken using this script as raw code or precompiled software. 
+We encourage users to use this software responsibly and to respect the privacy and security of others. 
 
+ 
                     Description :
 This script generates a list of all possible combinations of a given number of digits
 	(that NUMBER must be an integer). 
