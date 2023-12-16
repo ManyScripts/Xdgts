@@ -16,7 +16,7 @@ We encourage users to use this software responsibly and to respect the privacy a
 This script generates a list of all possible combinations of a given number of digits
 	(that NUMBER must be an integer). 
 The combinations are written to a text file on the user's desktop.
-    That should work on  work on Windows, Mac Os and Linux,but still needs testing, please report any error to the author.
+    That should work on Windows, Mac Os and Linux,but still needs testing, please report any error to the author.
 The user can choose to include various commands such as :
     "ENTER" wich simulate the press of the enter button
     "DELAY" wich needs a value in milliseconds and writes it after every attempt
