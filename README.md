@@ -60,5 +60,6 @@ If you have any questions ,issues or ideas to add something, please contact the 
 
 https://Github.com/egosinenomine for helping during the development of the idea and pattern scheme of the script.
 https://Github.com/LolloPig for fixing the whole c option in custominorder
+https://www.instagram.com/corona.lorenzo_ for helping during the testing on windows and compatibility porting for linux
 
 Thanks for checking out!!!
